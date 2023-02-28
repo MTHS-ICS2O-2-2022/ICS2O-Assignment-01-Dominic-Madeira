@@ -15,11 +15,11 @@
   padding: 0;
 }
 
+/* Justifying to center would not work */
 .page-img {
-  padding-left: 20pt;
-  padding-right: 20pt;
-  padding-top: 20pt;
-}
+    padding-left: 360pt;
+    padding-top: 10pt;
+  }
 
 .mdl-textfield__error {
   color: #fff;
@@ -32,7 +32,7 @@
 .page-content {
   padding-left: 500pt;
   padding-right: 20pt;
-  padding-top: 20pt;
+  padding-top: -220pt;
   color: rgb(0, 255, 225);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
