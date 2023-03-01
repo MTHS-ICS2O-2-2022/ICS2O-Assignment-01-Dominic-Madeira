@@ -13,29 +13,19 @@
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
+    color: #f00;
+      font-size: 3;
 }
-
-/* Justifying to center would not work */
-.page-img {
-    padding-left: 360pt;
-    padding-top: 10pt;
-  }
 
 .mdl-textfield__error {
   color: #fff;
 }
 
-.mdl-layout-title {
-  color: #f00;
-}
 
 .page-content {
-  padding-left: 500pt;
-  padding-right: 20pt;
-  padding-top: -220pt;
   color: rgb(0, 255, 225);
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 
 body {
