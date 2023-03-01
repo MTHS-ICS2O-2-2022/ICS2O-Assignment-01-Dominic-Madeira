@@ -13,17 +13,16 @@
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
-    color: #f00;
-      font-size: 3;
+  color: #f00;
+  font-size: 3;
 }
 
 .mdl-textfield__error {
   color: #fff;
 }
 
-
 .page-content {
-  color: rgb(0, 255, 225);
+  color: #0ff;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
